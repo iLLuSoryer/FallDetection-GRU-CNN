@@ -10,5 +10,5 @@
 
 
 
-https://github.com/iLLuSoryer/FallDetection-Movenet-CNN/assets/91926628/f7262b42-c99e-4a5c-b373-4d7b323ced4c
 
+https://github.com/iLLuSoryer/FallDetection-Movenet-CNN/assets/91926628/fa4cdc07-41c1-4ccd-9137-ff14d2639f19
