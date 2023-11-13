@@ -9,6 +9,6 @@
 * 所有路徑記得要修改
 
 <video width="640" height="360" controls>
-  <source src="C:\Users\ASUS\Desktop\school\project\FallDetection-GRU-CNN\movenetCNN\others.mp4" type="video/mp4">
+  <source src="example.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
