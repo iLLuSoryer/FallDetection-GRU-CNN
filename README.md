@@ -9,6 +9,4 @@
 * 所有路徑記得要修改
 
 
-
-
-https://github.com/iLLuSoryer/FallDetection-Movenet-CNN/assets/91926628/fa4cdc07-41c1-4ccd-9137-ff14d2639f19
+![GIF示例](example.gif)
