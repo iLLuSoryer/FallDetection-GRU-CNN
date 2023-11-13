@@ -8,7 +8,7 @@
 * "KeypointsWithoutFalldown"為"withoutFalldown"的節點資料，可以直接使用，這樣就可以跳過第一步驟（getNode）
 * 所有路徑記得要修改
 
-<video width="640" height="360" controls>
-  <source src="example.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+
+https://github.com/iLLuSoryer/FallDetection-Movenet-CNN/assets/91926628/f7262b42-c99e-4a5c-b373-4d7b323ced4c
+
